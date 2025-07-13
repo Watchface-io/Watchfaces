@@ -1,7 +1,7 @@
 ---
 name: Enhancement
 about: Suggest an idea for this project
-title: ''
+title: '[ENHANCEMENT] '
 labels: enhancement
 assignees: GreenBlack85
 type: 'enhancement'
