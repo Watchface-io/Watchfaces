@@ -3,8 +3,8 @@ name: Task
 about: Something GreenBack should do
 title: "[TASK]"
 labels: "task"
-type: "task"
 assignees: GreenBlack85
+type: "task"
 
 ---
 
