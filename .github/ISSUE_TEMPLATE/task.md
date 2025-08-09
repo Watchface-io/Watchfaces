@@ -2,8 +2,8 @@
 name: Task
 about: Something GreenBack should do
 title: "[TASK]"
-labels: 'task'
-type: task
+labels: "task"
+type: "task"
 assignees: GreenBlack85
 
 ---
