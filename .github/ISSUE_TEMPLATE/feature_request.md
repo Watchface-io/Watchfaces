@@ -2,8 +2,8 @@
 name: Feature request
 about: Suggest an idea for this project
 title: "[FEATURE]"
-labels: 'enhancement'
-type: enhancement
+labels: 'feature'
+type: feature
 assignees: GreenBlack85
 
 ---
