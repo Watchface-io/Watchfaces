@@ -8,8 +8,4 @@ type: "task"
 
 ---
 
-**What Needs to be done?**
-A clear and concise description
-
-**Watchface**
-For what watchface do you want this to be implemented?
+Note: Tasks are used by me only, please use a Bug or feature request instead.
