@@ -24,5 +24,5 @@ I will look at your issue the moment it comes in, and if nessesary will fix the 
 
 
 ### How do you organize things?
-The way I work is I open a project I'm working on, for example Fenix 8 V2, then pull in all the issues that are in the tracker for this face, and will go over them one by one until they are all fixed (or dismissed). When all issues are out the way, an update will be pushed to the Garmin IQ store. Features/enhancements are lower on the priority list, so it can be features are skipped when a bug needs to be fixed.
+The way I work is I open a project I'm working on, for example Fenix 8 V2, then pull in all the issues that are in the tracker for this face, and will go over them one by one until they are all fixed (or dismissed). When all issues are out the way, an update will be pushed to the Garmin IQ store. Features/enhancements are lower on the priority list, so it can be features are skipped when a bug needs to be fixed. Some projects have milestones to keep track of what will be added in the next releases.
 
