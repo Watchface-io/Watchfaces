@@ -8,5 +8,5 @@ assignees: GreenBlack85
 
 ---
 
-Note: Add some detaails here. Images highly incuraged
+Note: Add some details here. Images highly encouraged
 
