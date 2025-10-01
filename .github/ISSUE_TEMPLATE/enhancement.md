@@ -7,8 +7,6 @@ assignees: GreenBlack85
 type: 'enhancement'
 ---
 
-Note: Please add a label with the watchface you want this enhancement on. If multiple, select "All watchfaces".
-
 **Required:**
  - Watchface: 
  - Describe the enhancement you want to add:
