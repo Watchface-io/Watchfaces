@@ -10,7 +10,7 @@ type: 'enhancement'
 Note: Please add a label with the watchface you want this enhancement on. If multiple, select "All watchfaces".
 
 **Required:**
- - Watchface (Select as label): 
+ - Watchface: 
  - Describe the enhancement you want to add:
 
 **Optional:**
