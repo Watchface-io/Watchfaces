@@ -8,10 +8,9 @@ assignees: GreenBlack85
 
 ---
 
-Note: Please add a label with the watchface you want this feature on. If multiple, select "All watchfaces".
 
 **Required:**
- - Watchface (Select as label): 
+ - Watchface(s): 
  - Describe the feature you want to add:
 
 **Optional:**
