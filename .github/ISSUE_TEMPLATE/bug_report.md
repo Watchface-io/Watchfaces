@@ -7,7 +7,7 @@ type: bug
 assignees: GreenBlack85
 
 ---
-Note: Please add a label with the watchface you're expericing this issue on. If multiple, select "All watchfaces".
+
 
 **Required:**
  - Watchface: 
